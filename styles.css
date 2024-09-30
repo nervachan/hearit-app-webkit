@@ -1,8 +1,12 @@
 html{
     background-color:skyblue;
     font-family:'Times New Roman', Times, serif;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    height:100%;
 }
 li{
     background-color:lightslategray;
-    text-align:justify;
+    
 }
